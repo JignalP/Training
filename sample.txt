@@ -1,1 +1,2 @@
-This is a merge
+
+This is a is a sample file explaining merge conflict
